@@ -1,5 +1,5 @@
 {
-  "name": "darkroom-cmy-mate",
+  "name": "darkroom-simulator",
   "version": "1.0.0",
   "description": "CMY Color Correction Tool",
   "main": "index.tsx",
