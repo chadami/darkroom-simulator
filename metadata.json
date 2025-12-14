@@ -1,0 +1,7 @@
+{
+  "name": "Darkroom CMY Mate",
+  "description": "A color grading tool for analog darkroom printing. Visualize CMY filter adjustments on your test strips in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
